@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="masterdata" label="Masterdata" language="en" table="x_93459_applicatio_master_data">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>masterdata</element>
+            <help/>
+            <hint/>
+            <label>Masterdata</label>
+            <language>en</language>
+            <name>x_93459_applicatio_master_data</name>
+            <plural>Masterdatas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-08-18 18:15:53</sys_created_on>
+            <sys_id>6e96676907c6701092dff7108c1ed0fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Masterdata</sys_name>
+            <sys_package display_value="ApplicationReview" source="x_93459_applicatio">ea7eae2d0706701092dff7108c1ed091</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ApplicationReview">ea7eae2d0706701092dff7108c1ed091</sys_scope>
+            <sys_update_name>sys_documentation_x_93459_applicatio_master_data_masterdata_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-08-18 18:15:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
