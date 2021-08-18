@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="imitad location" max_length="40" name="x_93459_applicatio_imitad_location" type="collection">
+        <element label="LocationDescription" max_length="80" name="locationdescription" type="string"/>
+        <element label="Location Name" max_length="80" name="location_name" type="string"/>
+    </element>
+</database>
