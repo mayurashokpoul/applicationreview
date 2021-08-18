@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="masterLabel" max_length="40" name="x_93459_applicatio_masterlabel" type="collection">
+        <element label="masterdata" max_length="80" name="masterdata" type="string"/>
+    </element>
+</database>
