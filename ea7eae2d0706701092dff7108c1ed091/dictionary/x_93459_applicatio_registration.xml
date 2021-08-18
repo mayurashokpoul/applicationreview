@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Registration" max_length="40" name="x_93459_applicatio_registration" type="collection">
+        <element label="Domain" max_length="32" name="domain" type="domain_id"/>
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="80" name="password" type="string"/>
+        <element attributes="case_sensitive=true" label="Domain Path" max_length="255" name="sys_domain_path" type="domain_path"/>
+        <element attributes="edge_encryption_enabled=true" label="userName" max_length="80" name="username" type="string"/>
+        <index name="index">
+            <element name="domain"/>
+        </index>
+        <index name="index2">
+            <element name="sys_domain_path"/>
+        </index>
+    </element>
+</database>
