@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Master Data" max_length="40" name="x_93459_applicatio_master_data" type="collection">
-        <element label="data" max_length="80" name="data" type="string"/>
-        <element label="masterdata" max_length="40" name="masterdata" type="string"/>
-    </element>
-</database>
